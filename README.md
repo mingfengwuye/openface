@@ -7,6 +7,7 @@ Install
 http://cmusatyalab.github.io/openface/setup/
 
 Demo train a classifier and test
+
 1.Create a dir and copy images into it
   cd openface
   mkdir training-images
